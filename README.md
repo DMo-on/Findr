@@ -5,8 +5,7 @@ Findr est un système intelligent de gestion des documents du desktop de l’uti
 * Une recherche de documents pertinents par mots clés, domaines, etc.
 * Une suggestion de réorganisation du desktop, un document à la fois, sur la base d’une classification par apprentissage automatique qui prend en considération les contenus (mots) de ce document.
 
-
-![Alt text](Ressources/FindrBlue.png?raw=true "Logo")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Resources/FindrBlue.png?raw=true "Logo")
 
 
 ## Fonctionalités:
@@ -22,8 +21,8 @@ Findr est un système intelligent de gestion des documents du desktop de l’uti
 * Ajouter les multi media et leur faire une catégorisation manuelle en proposant à ‘utilisateur de les tagger.
 
 
-![Alt text](Screens/Français/Tags.png?raw=true "Tag")
-![Alt text](Screens/Français/Recommandés.png?raw=true "Recommandation")
-![Alt text](Screens/Français/RechercheContenu.png?raw=true "Recherche par Contenu")
-![Alt text](Screens/Français/Favoris.png?raw=true "Favoris")
-![Alt text](Screens/Français/DocFav.png?raw=true "Fav Documents")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Screens/fran%C3%A7ais/Tags.png?raw=true "Tag")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Screens/fran%C3%A7ais/Recommand%C3%A9s.png?raw=true "Recommandation")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Screens/fran%C3%A7ais/RechercheContenu.png?raw=true "Recherche par Contenu")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Screens/fran%C3%A7ais/Favoris.png?raw=true "Favoris")
+![Screenshot](https://github.com/DMo-on/Findr/blob/master/Screens/fran%C3%A7ais/DocFav.png?raw=true "Fav Documents")
